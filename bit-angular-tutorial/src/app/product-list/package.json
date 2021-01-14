@@ -1,0 +1,10 @@
+{
+  "es2015": "dist/fesm2015/bit-product-list.js",
+  "esm5": "dist/esm5/bit-product-list.js",
+  "esm2015": "dist/esm2015/bit-product-list.js",
+  "fesm5": "dist/fesm5/bit-product-list.js",
+  "fesm2015": "dist/fesm2015/bit-product-list.js",
+  "module": "dist/fesm5/bit-product-list.js",
+  "typings": "dist/bit-product-list.d.ts",
+  "metadata": "dist/bit-product-list.metadata.json"
+}
